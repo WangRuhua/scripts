@@ -1,2 +1,2 @@
 # scripts
-common scripts  which i used daily
+common scripts  which I use for daily operation, new server initial
